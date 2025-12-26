@@ -4,8 +4,7 @@
 Information Security and Privacy
 CS-GY 6813 2024 Fall CF01 CF02
 tj2552@nyu.edu
-Presentation Link: https://stream.nyu.edu/media/Cybersecurity%3A+Securing+Modern+E-Commerce+With+Passkeys/1_122pqucm
-
+Presentation Link: https://stream.nyu.edu/media/Cybersecurity%3A%20Securing%20Modern%20E-Commerce%20With%20Passkeys/1_l22pqucm
 ---
 
 ### Abstract
