@@ -4,7 +4,7 @@
 [cite_start]New York University [cite: 3]
 [cite_start]New York City, New York United States [cite: 4]
 [cite_start]tj2552@nyu.edu [cite: 5]
-[cite_start]Presentation Link: https://stream.nyu.edu/media/FIDO+And+The+Future+Of+Consumer+OS/138lgu2i5 [cite: 6]
+[cite_start]Presentation Link: https://stream.nyu.edu/media/FIDO+And+The+Future+Of+Consumer+OS/1_38lgu2i5 [cite: 6]
 
 ### Abstract
 [cite_start]Popular Consumer Operating Systems on desktop computers such as Windows and MacOS are bundled with weak default security leaving users vulnerable the moment they are powered on[cite: 7]. [cite_start]Mandatory adoption of FIDO keys is the most effective solution to their default single factor password based authentication methods[cite: 8]. [cite_start]This offers built-in three factor authentication, and the potential to introduce device security and SSO to popular and vulnerable internet services[cite: 9]. [cite_start]This is evident when comparing threat vectors with and without FIDO[cite: 10]. [cite_start]In addition, when their use is mandated as the primary authentication method, the FIDO approach overcomes user apathy for improved security, thus universally improving security outcomes[cite: 11].
