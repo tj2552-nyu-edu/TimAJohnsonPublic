@@ -2,6 +2,8 @@
 Timothy Johnson, Tandon Cyber Fellow
 tj2552@nyu.edu,
 NYU AI Governance, Fall 2026, Alexander Sharpe
+
+
 Current AI governance and risk frameworks generally identify data as the principal agent of AI
 performance  and  risk.  But  the  current  recognized  standards,  such  as  ISO  42001,  rely  on  policy,
 audit,  documentation,  and  human  oversight  to  secure  downstream  data  pipelines[4].  Although
