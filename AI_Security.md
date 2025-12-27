@@ -1,8 +1,6 @@
-##From Governance to Enforcement: Closing AI Data Accountability with SLSA
-Timothy Johnson, Tandon Cyber Fellow
-tj2552@nyu.edu,
-NYU AI Governance, Fall 2026, Alexander Sharpe
+## From Governance to Enforcement: Closing AI Data Accountability with SLSA
 
+Timothy Johnson, Tandon Cyber Fellow, tj2552@nyu.edu
 
 Current AI governance and risk frameworks generally identify data as the principal agent of AI
 performance  and  risk.  But  the  current  recognized  standards,  such  as  ISO  42001,  rely  on  policy,
@@ -67,13 +65,20 @@ prescribing  how  to  build  the  automated  downstream  approaches  to  data  s
 model lifecycle that will be needed as development methods evolve to meet demand.
 ## References
 [1] Supply-chain Levels for Software Artifacts, “SLSA Provenance Specification,” slsa.dev.
+
 [2] Supply-chain Levels for Software Artifacts, “SLSA Levels Specification,” slsa.dev.
+
 [3] Supply-chain Levels for Software Artifacts, “SLSA Threat Model,” slsa.dev.
+
 [4]   ISO/IEC,   ISO/IEC   42001:2023   —   Artificial   Intelligence   —   Management   System,
 International Organization for Standardization, Geneva, Switzerland, 2023.
+
 [5]ISO/IEC, ISO/IEC 42001:2023 — Artificial Intelligence — Management System, Annex A,
 Control A.7 (Data for AI Systems). Geneva, Switzerland: International Organization for
+Standardization, 2023.
+
 [6] B. Christian, The Alignment Problem: Machine Learning and Human Values, New York, NY,
 USA: W. W. Norton & Company, 2020.
+
 [7] A. Souly et al., “Poisoning Attacks on LLMs Require a Near-Constant Number of Poison
 Samples,” arXiv preprint, Oct. 8, 2025.
