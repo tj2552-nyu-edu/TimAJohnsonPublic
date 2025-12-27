@@ -1,4 +1,4 @@
-## From Governance to Enforcement: Closing AI Data Accountability with SLSA
+## From Governance to Enforcement: Closing AI Training Data Accountability with SLSA
 
 Timothy Johnson, Tandon Cyber Fellow, tj2552@nyu.edu
 
